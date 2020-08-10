@@ -1,7 +1,7 @@
 module.exports = {
     theme: "antdocs",
     title: "猫河的个人网站",
-    description: "6cab7f014ddbcc4169b513eaec3af6ed082f29c5 ",
+    description: "268292c76026cc51e3eb0bd3234c1850a6336b18 ",
     base: '/',
     head: [
         ['link', {rel: 'icon', href: './public/images/favicon.ico'}]
